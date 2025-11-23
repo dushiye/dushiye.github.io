@@ -81,6 +81,6 @@ Total Pageviews
 
 <div style="text-align:center;">
 <script type="text/javascript" id="mmvst_globe" 
-src="//mapmyvisitors.com/globe.js?d=gT9Y-S6iyjwHfB7TJ_l92VdZn34JWO-ZRUIDkae6bPk">
+src="https://mapmyvisitors.com/globe.js?d=gT9Y-S6iyjwHfB7TJ_l92VdZn34JWO-ZRUIDkae6bPk">
 </script>
 </div>
