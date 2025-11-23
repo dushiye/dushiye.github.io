@@ -79,8 +79,6 @@ TBD
 Total Pageviews
 </div>
 
-<div style="text-align:center;">
-<script type="text/javascript" id="mmvst_globe" 
-src="https://mapmyvisitors.com/globe.js?d=gT9Y-S6iyjwHfB7TJ_l92VdZn34JWO-ZRUIDkae6bPk">
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=i-VYTisGVMti2JQd6CdouBKphtybsKz6VQCudmIoEmA&cl=ffffff&w=a"></script>
 </script>
 </div>
