@@ -6,10 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : |
-  Shiye Du（杜是也）
-
-  
+title                    : "Shiye Du (杜是也)" 
 description              : "“Unshaken by fortune, untouched by sorrow.”"
 repository               : "dushiye/dushiye.github.io"
 google_scholar_stats_use_cdn : true
