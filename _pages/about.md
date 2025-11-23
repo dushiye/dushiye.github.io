@@ -25,6 +25,7 @@ TBD
 # 🔥 News
 - *2025.10.11*: &nbsp;🎉🎉 Honored with the Innovation Award!
 - *2025.10.12*: &nbsp;🎉🎉 Awarded the National Scholarship!
+- *2025.08.19*: &nbsp;🎉🎉 Joined Duke University as a Visiting Student, completing one semester of academic study!
 - *2024.11.12*: &nbsp;🎉🎉 Awarded the Outstanding Contribution Award for exceptional service in the Student Ambassador Program!
 - *2024.10.11*: &nbsp;🎉🎉 Honored with the Innovation Award!
 - *2024.10.11*: &nbsp;🎉🎉 Awarded the Zhejiang Provincial Government Scholarship!
@@ -32,7 +33,7 @@ TBD
 
 
 # 📝 Publications 
-
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -45,19 +46,29 @@ TBD
 </div>
 </div>
 
+
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+-->
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.10.11*: 🎉 the Innovation Award
+- *2025.10.12*: 🎉 the National Scholarship
+- *2024.11.12*: 🎉 the Outstanding Contribution Award for exceptional service in the Student Ambassador Program
+- *2024.10.11*: 🎉 the Innovation Award
+- *2024.10.11*: 🎉 the Zhejiang Provincial Government Scholarship
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.07.28 - Present*, [Westlake University](https://www.westlake.edu.cn/), Hangzhou, China
+- *2025.08.19 - Present*, [Duke University](https://duke.edu/), Durham, United States
 
 # 💬 Invited Talks
+<!--
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+-->
 
 # 💻 Internships
+<!--
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+-->
