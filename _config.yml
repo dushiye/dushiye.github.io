@@ -24,7 +24,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : 
+  name             : |
+    Shiye Du
+    (杜是也)
   avatar           : "/images/IMG_0300.jpeg"
   bio              : 
   location         : "Hangzhou, China"
