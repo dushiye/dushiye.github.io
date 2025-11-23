@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shiye Du（杜是也）"
-description              : "Unshaken by fortune, untouched by sorrow."
+description              : ""Unshaken by fortune, untouched by sorrow.""
 repository               : "dushiye/dushiye.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,11 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Shiye Du（杜是也）"
+  name             : |
+  Shiye Du
+  (杜是也)
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Westlake University"
+  bio              : 
+  employer         : "Westlake University"
   location         : "Hangzhou, China"
-  employer         :
+  
   pubmed           : 
   googlescholar    : 
   email            : "dushiye@westlake.edu.cn"
