@@ -23,11 +23,11 @@ TBD
 
 
 # 🔥 News
-- *2025.10.11*: &nbsp;🎉🎉 Honored with the Innovation Award!
+- *2025.10.11*: &nbsp;🎉🎉 Honored with the Innovation Award of Westlake University!
 - *2025.10.12*: &nbsp;🎉🎉 Awarded the National Scholarship!
 - *2025.08.19*: &nbsp;🎉🎉 Joined Duke University as a Visiting Student, completing one semester of academic study!
 - *2024.11.12*: &nbsp;🎉🎉 Awarded the Outstanding Contribution Award for exceptional service in the Student Ambassador Program!
-- *2024.10.11*: &nbsp;🎉🎉 Honored with the Innovation Award!
+- *2024.10.11*: &nbsp;🎉🎉 Honored with the Innovation Award of Westlake University!
 - *2024.10.11*: &nbsp;🎉🎉 Awarded the Zhejiang Provincial Government Scholarship!
 - *2023.07.28*: &nbsp;🎉🎉 Admitted to Westlake University as an undergraduate student!
 
@@ -51,10 +51,10 @@ TBD
 -->
 
 # 🎖 Honors and Awards
-- *2025.10.11*: 🎉 the Innovation Award
+- *2025.10.11*: 🎉 the Innovation Award of Westlake University
 - *2025.10.12*: 🎉 the National Scholarship
 - *2024.11.12*: 🎉 the Outstanding Contribution Award for exceptional service in the Student Ambassador Program
-- *2024.10.11*: 🎉 the Innovation Award
+- *2024.10.11*: 🎉 the Innovation Award of Westlake University
 - *2024.10.11*: 🎉 the Zhejiang Provincial Government Scholarship
 
 
