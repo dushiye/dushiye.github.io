@@ -1,0 +1,76 @@
+1:"$Sreact.fragment"
+3:I[3719,["461","static/chunks/461-a9a5d7b05a71d978.js","874","static/chunks/874-6cc630662f3664af.js","291","static/chunks/291-e39730cc9327e39b.js","177","static/chunks/app/layout-2a47424aec7977b7.js"],"ThemeProvider"]
+4:I[310,["461","static/chunks/461-a9a5d7b05a71d978.js","874","static/chunks/874-6cc630662f3664af.js","291","static/chunks/291-e39730cc9327e39b.js","177","static/chunks/app/layout-2a47424aec7977b7.js"],"LocaleProvider"]
+5:I[4574,["461","static/chunks/461-a9a5d7b05a71d978.js","874","static/chunks/874-6cc630662f3664af.js","291","static/chunks/291-e39730cc9327e39b.js","177","static/chunks/app/layout-2a47424aec7977b7.js"],"default"]
+6:I[7555,[],""]
+7:I[1295,[],""]
+8:I[2548,["461","static/chunks/461-a9a5d7b05a71d978.js","874","static/chunks/874-6cc630662f3664af.js","291","static/chunks/291-e39730cc9327e39b.js","177","static/chunks/app/layout-2a47424aec7977b7.js"],"default"]
+9:I[6613,["461","static/chunks/461-a9a5d7b05a71d978.js","178","static/chunks/178-595a94b9af1e67b5.js","874","static/chunks/874-6cc630662f3664af.js","748","static/chunks/748-abdcac66b902b175.js","974","static/chunks/app/page-940990abf4381a0b.js"],"default"]
+b:I[9665,[],"MetadataBoundary"]
+d:I[9665,[],"OutletBoundary"]
+10:I[4911,[],"AsyncMetadataOutlet"]
+12:I[9665,[],"ViewportBoundary"]
+14:I[6614,[],""]
+:HL["/_next/static/css/94d503c5151c60f5.css","style"]
+2:T581,
+    try {
+      const cfg = {"enabled":false,"locales":["en"],"defaultLocale":"en","mode":"fixed","fixedLocale":"en","persist":false,"switcher":false,"labels":{"en":"English"}};
+      const storageKey = 'locale-storage';
+      const normalize = (value) => typeof value === 'string' ? value.trim().replace('_', '-').toLowerCase() : '';
+      const matchLocale = (candidate) => {
+        const normalized = normalize(candidate);
+        if (!normalized) return null;
+        if (cfg.locales.includes(normalized)) return normalized;
+        const language = normalized.split('-')[0];
+        if (cfg.locales.includes(language)) return language;
+        return null;
+      };
+
+      let resolved = null;
+
+      if (cfg.persist) {
+        resolved = matchLocale(localStorage.getItem(storageKey));
+      }
+
+      if (!resolved) {
+        if (cfg.mode === 'fixed') {
+          resolved = cfg.fixedLocale;
+        } else {
+          resolved = matchLocale(navigator.language);
+        }
+      }
+
+      if (!resolved) {
+        resolved = cfg.defaultLocale;
+      }
+
+      const root = document.documentElement;
+      root.lang = resolved;
+      root.setAttribute('data-locale', resolved);
+
+      if (cfg.persist) {
+        localStorage.setItem(storageKey, resolved);
+      }
+    } catch (e) {
+      const root = document.documentElement;
+      root.lang = 'en';
+      root.setAttribute('data-locale', 'en');
+    }
+  a:T579,Hi there, I am **Shiye Du (杜是也)**, an undergraduate student majoring in Chemistry at [Westlake University](https://www.westlake.edu.cn/). My academic training spans chemistry, nanoscience, and machine learning, with a current focus on building physically interpretable design principles for plasmonic nanostructures.
+
+Since January 2025, I have been working with [Prof. Hongyu Chen](https://www.westlake.edu.cn/faculty/hongyu-chen.html) in the School of Science at Westlake University. My current research centers on three directions: universal nanoparticle descriptors for physics-aware inverse design, optical force and torque enhancement in coupled plasmonic systems, and thermally switchable multishell plasmonic nanomachines.
+
+Before joining Prof. Chen's lab, I conducted undergraduate research with [Prof. Jianjun Cheng](https://www.westlake.edu.cn/faculty/jianjun-cheng.html), studying rapid NCA ring-opening polymerization methods through monomer synthesis, polypeptide synthesis, and FTIR-based kinetic characterization.
+
+I also completed one semester of academic study as a visiting student at [Duke University](https://duke.edu/) in Fall 2025. I am broadly interested in combining simulation, descriptor design, and deep learning to make nanoscale materials and machines more interpretable, generalizable, and experimentally actionable.
+
+> "Unshaken by fortune, untouched by sorrow."
+0:{"P":null,"b":"BDVbwWVh2dVhJGvNdzNnt","p":"","c":["",""],"i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/94d503c5151c60f5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"scroll-smooth","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.svg","type":"image/svg+xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n              try {\n                const theme = localStorage.getItem('theme-storage');\n                const parsed = theme ? JSON.parse(theme) : null;\n                const setting = parsed?.state?.theme || 'system';\n                const prefersDark = typeof window !== 'undefined' && window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;\n                const effective = setting === 'dark' ? 'dark' : (setting === 'light' ? 'light' : (prefersDark ? 'dark' : 'light'));\n                var root = document.documentElement;\n                root.classList.add(effective);\n                root.setAttribute('data-theme', effective);\n              } catch (e) {\n                var root = document.documentElement;\n                root.classList.add('light');\n                root.setAttribute('data-theme', 'light');\n              }\n            "}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]]}],["$","body",null,{"className":"font-sans antialiased","children":["$","$L3",null,{"children":["$","$L4",null,{"config":{"enabled":false,"locales":["en"],"defaultLocale":"en","mode":"fixed","fixedLocale":"en","persist":false,"switcher":false,"labels":{"en":"English"}},"children":[["$","$L5",null,{"items":[{"title":"About","type":"page","target":"about","href":"/"},{"title":"Research","type":"page","target":"research","href":"/research"},{"title":"Publications","type":"page","target":"publications","href":"/publications"},{"title":"Awards","type":"page","target":"awards","href":"/awards"},{"title":"CV","type":"page","target":"cv","href":"/cv"}],"siteTitle":"Shiye Du","enableOnePageMode":false,"i18n":"$0:f:0:1:1:props:children:1:props:children:1:props:children:props:children:props:config","itemsByLocale":{"en":[{"title":"About","type":"page","target":"about","href":"/"},{"title":"Research","type":"page","target":"research","href":"/research"},{"title":"Publications","type":"page","target":"publications","href":"/publications"},{"title":"Awards","type":"page","target":"awards","href":"/awards"},{"title":"CV","type":"page","target":"cv","href":"/cv"}]},"siteTitleByLocale":{"en":"Shiye Du"}}],["$","main",null,{"className":"min-h-screen pt-16 lg:pt-20","children":["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L8",null,{"lastUpdated":"May 1, 2026","lastUpdatedByLocale":{"en":"May 1, 2026"},"defaultLocale":"en"}]]}]}]}]]}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","$L9",null,{"dataByLocale":{"en":{"author":{"name":"Shiye Du (杜是也)","title":"Undergraduate Student in Chemistry","institution":"Westlake University","avatar":"/IMG_0300.jpeg"},"social":{"email":"dushiye@westlake.edu.cn","location":"Hangzhou, China","location_url":"https://maps.google.com/?q=Hangzhou%2C%20China","location_details":["Westlake University,","Hangzhou, China"],"google_scholar":"","orcid":"","github":"https://github.com/dushiye","linkedin":""},"features":{"enable_likes":false,"enable_one_page_mode":false},"enableOnePageMode":false,"researchInterests":["Physics-aware nanoparticle descriptors","Plasmonic nanomachines","Optical force and torque"],"pagesToShow":[{"type":"about","id":"about","sections":[{"id":"about","type":"markdown","source":"bio.md","title":"About","content":"$a"},{"id":"news","type":"list","title":"News","source":"news.toml","items":[{"date":"2025-10-12","content":"Awarded the National Scholarship."},{"date":"2025-10-11","content":"Received the Learning Innovation Award at Westlake University."},{"date":"2025-08-19","content":"Joined Duke University as a visiting student for one semester of academic study."},{"date":"2024-11-12","content":"Received the Outstanding Contribution Award for service in the Student Ambassador Program."},{"date":"2024-10-11","content":"Awarded the Zhejiang Provincial Government Scholarship and the Learning Innovation Award at Westlake University."},{"date":"2023-07-28","content":"Admitted to Westlake University as an undergraduate student."}]}]}]}},"defaultLocale":"en"}],["$","$Lb",null,{"children":"$Lc"}],null,["$","$Ld",null,{"children":["$Le","$Lf",["$","$L10",null,{"promise":"$@11"}]]}]]}],{},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","Mu1wvrs1sSmuvCvZVfVw3",{"children":[["$","$L12",null,{"children":"$L13"}],null]}],null]}],false]],"m":"$undefined","G":["$14","$undefined"],"s":false,"S":true}
+15:"$Sreact.suspense"
+16:I[4911,[],"AsyncMetadata"]
+c:["$","$15",null,{"fallback":null,"children":["$","$L16",null,{"promise":"$@17"}]}]
+f:null
+13:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+e:null
+17:{"metadata":[["$","title","0",{"children":"Shiye Du"}],["$","meta","1",{"name":"description","content":"Personal academic homepage of Shiye Du, undergraduate student in Chemistry at Westlake University."}],["$","meta","2",{"name":"author","content":"Shiye Du (杜是也)"}],["$","meta","3",{"name":"keywords","content":"Shiye Du (杜是也),PhD,Research,Westlake University"}],["$","meta","4",{"name":"creator","content":"Shiye Du (杜是也)"}],["$","meta","5",{"name":"publisher","content":"Shiye Du (杜是也)"}],["$","meta","6",{"property":"og:title","content":"Shiye Du"}],["$","meta","7",{"property":"og:description","content":"Personal academic homepage of Shiye Du, undergraduate student in Chemistry at Westlake University."}],["$","meta","8",{"property":"og:site_name","content":"Shiye Du (杜是也)'s Academic Website"}],["$","meta","9",{"property":"og:locale","content":"en_US"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary"}],["$","meta","12",{"name":"twitter:title","content":"Shiye Du"}],["$","meta","13",{"name":"twitter:description","content":"Personal academic homepage of Shiye Du, undergraduate student in Chemistry at Westlake University."}],["$","link","14",{"rel":"icon","href":"/favicon.svg"}]],"error":null,"digest":"$undefined"}
+11:{"metadata":"$17:metadata","error":null,"digest":"$undefined"}
