@@ -10,7 +10,7 @@ c:I[9665,[],"OutletBoundary"]
 f:I[4911,[],"AsyncMetadataOutlet"]
 11:I[9665,[],"ViewportBoundary"]
 13:I[6614,[],""]
-:HL["/_next/static/css/a21ad021e6bbe072.css","style"]
+:HL["/_next/static/css/3263f8026d7b4ee0.css","style"]
 2:T581,
     try {
       const cfg = {"enabled":false,"locales":["en"],"defaultLocale":"en","mode":"fixed","fixedLocale":"en","persist":false,"switcher":false,"labels":{"en":"English"}};
@@ -55,89 +55,98 @@ f:I[4911,[],"AsyncMetadataOutlet"]
       root.lang = 'en';
       root.setAttribute('data-locale', 'en');
     }
-  0:{"P":null,"b":"ePjd0MgvWkgcng_kTf0NF","p":"","c":["","cv",""],"i":false,"f":[[["",{"children":[["slug","cv","d"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a21ad021e6bbe072.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"scroll-smooth","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.svg","type":"image/svg+xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n              try {\n                const theme = localStorage.getItem('theme-storage');\n                const parsed = theme ? JSON.parse(theme) : null;\n                const setting = parsed?.state?.theme;\n                const prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;\n                const effective = setting === 'light' || setting === 'dark' ? setting : (prefersDark ? 'dark' : 'light');\n                var root = document.documentElement;\n                root.classList.remove('light', 'dark');\n                root.classList.add(effective);\n                root.setAttribute('data-theme', effective);\n              } catch (e) {\n                var root = document.documentElement;\n                const effective = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';\n                root.classList.add(effective);\n                root.setAttribute('data-theme', effective);\n              }\n            "}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]]}],["$","body",null,{"className":"font-sans antialiased","children":["$","$L3",null,{"children":["$","$L4",null,{"config":{"enabled":false,"locales":["en"],"defaultLocale":"en","mode":"fixed","fixedLocale":"en","persist":false,"switcher":false,"labels":{"en":"English"}},"children":[["$","$L5",null,{"items":[{"title":"About","type":"page","target":"about","href":"/"},{"title":"Research","type":"page","target":"research","href":"/research"},{"title":"Publications","type":"page","target":"publications","href":"/publications"},{"title":"Awards","type":"page","target":"awards","href":"/awards"},{"title":"CV","type":"page","target":"cv","href":"/cv"}],"siteTitle":"Shiye Du","enableOnePageMode":false,"i18n":"$0:f:0:1:1:props:children:1:props:children:1:props:children:props:children:props:config","itemsByLocale":{"en":[{"title":"About","type":"page","target":"about","href":"/"},{"title":"Research","type":"page","target":"research","href":"/research"},{"title":"Publications","type":"page","target":"publications","href":"/publications"},{"title":"Awards","type":"page","target":"awards","href":"/awards"},{"title":"CV","type":"page","target":"cv","href":"/cv"}]},"siteTitleByLocale":{"en":"Shiye Du"}}],["$","main",null,{"className":"min-h-screen pt-16 lg:pt-20","children":["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L8",null,{"lastUpdated":"September 2026","lastUpdatedByLocale":{"en":"September 2026"},"defaultLocale":"en"}]]}]}]}]]}]]}],{"children":[["slug","cv","d"],["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L9",["$","$La",null,{"children":"$Lb"}],null,["$","$Lc",null,{"children":["$Ld","$Le",["$","$Lf",null,{"promise":"$@10"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","z6WYZhZhzjRMjoX-H3FC5",{"children":[["$","$L11",null,{"children":"$L12"}],null]}],null]}],false]],"m":"$undefined","G":["$13","$undefined"],"s":false,"S":true}
+  0:{"P":null,"b":"aILlgRs8TXbpODM3mEAY2","p":"","c":["","cv",""],"i":false,"f":[[["",{"children":[["slug","cv","d"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3263f8026d7b4ee0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"scroll-smooth","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.svg","type":"image/svg+xml"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n              try {\n                const theme = localStorage.getItem('theme-storage');\n                const parsed = theme ? JSON.parse(theme) : null;\n                const setting = parsed?.state?.theme;\n                const prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;\n                const effective = setting === 'light' || setting === 'dark' ? setting : (prefersDark ? 'dark' : 'light');\n                var root = document.documentElement;\n                root.classList.remove('light', 'dark');\n                root.classList.add(effective);\n                root.setAttribute('data-theme', effective);\n              } catch (e) {\n                var root = document.documentElement;\n                const effective = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';\n                root.classList.add(effective);\n                root.setAttribute('data-theme', effective);\n              }\n            "}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]]}],["$","body",null,{"className":"font-sans antialiased","children":["$","$L3",null,{"children":["$","$L4",null,{"config":{"enabled":false,"locales":["en"],"defaultLocale":"en","mode":"fixed","fixedLocale":"en","persist":false,"switcher":false,"labels":{"en":"English"}},"children":[["$","$L5",null,{"items":[{"title":"About","type":"page","target":"about","href":"/"},{"title":"Research","type":"page","target":"research","href":"/research"},{"title":"Publications","type":"page","target":"publications","href":"/publications"},{"title":"Awards","type":"page","target":"awards","href":"/awards"},{"title":"CV","type":"page","target":"cv","href":"/cv"}],"siteTitle":"Shiye Du","enableOnePageMode":false,"i18n":"$0:f:0:1:1:props:children:1:props:children:1:props:children:props:children:props:config","itemsByLocale":{"en":[{"title":"About","type":"page","target":"about","href":"/"},{"title":"Research","type":"page","target":"research","href":"/research"},{"title":"Publications","type":"page","target":"publications","href":"/publications"},{"title":"Awards","type":"page","target":"awards","href":"/awards"},{"title":"CV","type":"page","target":"cv","href":"/cv"}]},"siteTitleByLocale":{"en":"Shiye Du"}}],["$","main",null,{"className":"min-h-screen pt-16 lg:pt-20","children":["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L8",null,{"lastUpdated":"September 21, 2026","lastUpdatedByLocale":{"en":"September 21, 2026"},"defaultLocale":"en"}]]}]}]}]]}]]}],{"children":[["slug","cv","d"],["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L9",["$","$La",null,{"children":"$Lb"}],null,["$","$Lc",null,{"children":["$Ld","$Le",["$","$Lf",null,{"promise":"$@10"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","cxxPLdSPi8l886iotd8V9",{"children":[["$","$L11",null,{"children":"$L12"}],null]}],null]}],false]],"m":"$undefined","G":["$13","$undefined"],"s":false,"S":true}
 14:"$Sreact.suspense"
 15:I[4911,[],"AsyncMetadata"]
-17:I[2382,["461","static/chunks/461-a9a5d7b05a71d978.js","178","static/chunks/178-595a94b9af1e67b5.js","748","static/chunks/748-9f6289b6f7b46a3d.js","182","static/chunks/app/%5Bslug%5D/page-8e829f2e040d7cab.js"],"default"]
+17:I[2382,["461","static/chunks/461-a9a5d7b05a71d978.js","178","static/chunks/178-595a94b9af1e67b5.js","748","static/chunks/748-79bb8f51fc3a67f0.js","182","static/chunks/app/%5Bslug%5D/page-8e829f2e040d7cab.js"],"default"]
 b:["$","$14",null,{"fallback":null,"children":["$","$L15",null,{"promise":"$@16"}]}]
-18:Tfb9,[Download PDF CV](/files/Shiye_Du_CV.pdf)
+18:T11b3,# Shiye Du (杜是也)
+
+[dushiye@westlake.edu.cn](mailto:dushiye@westlake.edu.cn) · Hangzhou, China · [GitHub](https://github.com/dushiye) · [Download PDF CV](/files/Shiye_Du_CV.pdf)
+
+**Research Interests:** Computational Nanophotonics · Optical Forces and Nanomachines · Physics-Informed AI for Nanophotonic Design
 
 ## Education
 
-**Westlake University**, Bachelor of Science in Chemistry  
-*July 2023 - Present, Hangzhou, China*  
-- Rank: 1/13
-- GPA: 4.070/4.3
-- Coursework: Organic Chemistry, Inorganic Chemistry, Physical Chemistry, Fundamental Molecular Spectroscopy and Group Theory, Bioconjugation Technique, Inorganic Chemistry Characterization Methods.
+### Westlake University
 
-**Duke University**, Visiting Student  
-*Aug. 2025 - Dec. 2025, Durham, United States*  
-- Coursework: Biochemistry, Data Science and Statistics, Discrete Math for CS, Elementary Differential Equation.
+**B.S. in Chemistry**, Expected July 2027\
+GPA: 4.070/4.300 · Rank: 1/13
+
+### Duke University
+
+**Visiting International Student, Department of Chemistry**\
+Aug. 2025 – Dec. 2025\
+**Relevant Coursework:** Differential Equations · Discrete Mathematics · Data Science · Biochemistry
+
+## Manuscripts
+
+**Shiye Du†**, Juanshu Wu†, Xin Chen, Mouhong Lin\*, Hongyu Chen\*. “Sustained Orbital Motion Driven by Circularly Polarized Light in Nanoscale Stator–Rotor Architectures.” *Manuscript.*
+
+**Universal Nanoparticle Descriptors for Physics-Aware Inverse Design** (working project title). *Co-first-author manuscript in preparation.*
+
+† Equal contribution; \* corresponding authors.
 
 ## Research Experience
 
-### Professor Hongyu Chen's Lab, Westlake University
+### Prof. Hongyu Chen's Lab, Westlake University
 
-*Undergraduate Researcher, Jan. 2025 – Present*  
-*Co-supervised by [Prof. Mouhong Lin](https://person.zju.edu.cn/linmouhong), Zhejiang University.*
+*Undergraduate Researcher | Jan. 2025 – Present*\
+Co-supervised by [Prof. Mouhong Lin](https://person.zju.edu.cn/linmouhong), Zhejiang University.
 
-#### Sustained Orbital Motion Driven by Circularly Polarized Light in Nanoscale Stator–Rotor Architectures
-- Developed a stator–rotor architecture that couples optical helicity with rotor-defined polarity to generate persistent orbital motion under spatially uniform CPL.
-- Derived the symmetry-constrained nonconservative force mechanism and extended it across ring, enclosing-shell, and eccentric-stator architectures.
-- Combined FDTD simulation, Bayesian optimization, Pareto design, photothermal modeling, and Brownian dynamics to develop a robust Ag-nanoshell nanorotor design.
+#### Sustained Orbital Motion in Nanoscale Stator–Rotor Architectures
 
-#### Universal Nanoparticle Descriptors for Physics-Aware Inverse Design
-- Built a descriptor set for colloidal nanoparticle assemblies, including hot-spot volume and intensity, normal electric-field volume, global/component complex multipolar amplitudes, and derived post-processed descriptors.
-- Established these physics-informed descriptors as intermediate design variables to improve generalizability, interpretability, and stability beyond direct spectrum-to-structure inverse mapping in complex nanostructures.
+*First-author project*
 
-### Professor Jianjun Cheng's Lab, Westlake University
+- Developed a nanoscale stator–rotor architecture for sustained orbital motion under circularly polarized plane-wave illumination and identified helicity–polarity coupling as the underlying force mechanism.
+- Derived a symmetry-constrained optical-force law distinguishing nonconservative CPL-driven cyclic work from conservative LP responses, and validated the principle across ring, enclosing-shell, and eccentric-stator architectures.
+- Combined FDTD force calculations, multi-objective optimization, photothermal modeling, and Brownian dynamics to develop a confined Ag-nanoshell nanorotor with reduced optical heating.
 
-*Undergraduate Researcher, Sept. 2023 – Jan. 2025*
+#### Maxwell Descriptors for Physics-Aware Nanophotonic Design
 
-#### Novel Rapid NCA Ring-Opening Polymerization Methods
-- Synthesized BLG-NCA monomers and PBLG polypeptides.
-- Characterized polymerization kinetics by in situ FTIR spectroscopy.
-- Investigated macrodipole-assisted macroinitiators for accelerated NCA ring-opening polymerization.
+*Co-first-author project*
+
+- Co-developed geometry-agnostic Maxwell descriptors that encode electric and magnetic multipolar channels and their interference within a shared electromagnetic representation across heterogeneous nanostructures.
+- Built a structure–descriptor–spectrum learning framework that improves spectral prediction, cross-geometry transferability, and physical interpretability over geometry-specific representations.
+- Applied the framework to physics-aware inverse design of a two-state rod–shell photothermal switch with strongly separated optical resonances and a recoverable electromagnetic mechanism.
+
+### Prof. Jianjun Cheng's Lab, Westlake University
+
+*Undergraduate Researcher | Sept. 2023 – Jan. 2025*
+
+- Synthesized BLG-NCA monomers and PBLG polypeptides and quantified NCA ring-opening polymerization kinetics using in situ FTIR spectroscopy.
+- Investigated macrodipole-assisted macroinitiators while gaining experimental training in monomer synthesis, controlled polymerization, reaction monitoring, and polymer characterization.
 
 ### International Genetically Engineered Machine (iGEM) Competition
 
-*Team Member, Dec. 2023 – Nov. 2024*
+*Team Member | Dec. 2023 – Nov. 2024*
 
-- Designed an E. coli genetic circuit for cancer cell killing and contributed to an International Silver Medal project.
+- Designed components of an *E. coli* genetic circuit for tumor-cell recognition and therapeutic-response activation, contributing to an iGEM Silver Medal project.
 
-## Upcoming Research
+## Awards & Honors
 
-### [Professor Hanqing Jiang's Lab](https://en.westlake.edu.cn/faculty/hanqing-jiang.html), Westlake University
+- National Scholarship, Ministry of Education of China, 2025
+- Zhejiang Provincial Government Scholarship, 2024
+- Outstanding Student Award, Westlake University, 2025
+- Learning Innovation Award, Westlake University, 2024 & 2025
+- Outstanding Contribution Award, Student Ambassador Program, Westlake University, 2024
 
-*Senior-Year Researcher / Upcoming*
+## Leadership & Service
 
-#### Acoustic Materials & Metamaterials
+### Head, Academic Department, Student Development Center
 
-Beginning in my senior year, I will conduct research on acoustic materials and metamaterials. Project details will be updated as the work develops.
+- Led academic-support initiatives and developed undergraduate academic resources.
 
-## Leadership and Activities
+### Student Ambassador, Westlake University
 
-**Head of the Academic Department, Student Development Center**  
-*Sept. 2024 - Jun. 2025*  
-- Organized faculty-student discussions and built an academic resource-sharing website for Westlake undergraduates.
-
-**Westlake University Student Ambassador Program**  
-*Sept. 2023 - Jun. 2024*  
-- Represented Westlake University at admissions outreach events, campus tours, and student exchanges.
-
-**Science Outreach Volunteer**  
-*Jul. 2024*  
-- Led interactive cancer biology and prevention sessions for primary and middle school students.
-
-**Campus Volunteer Activities**  
-*Sept. 2023 - Present*  
-- Supported university events including sports day, the Westlake Higher Education Forum, and Huxin Public Lectures.
+- Represented the university in admissions outreach and campus engagement.
 
 ## Skills
 
-- **Laboratory:** Polypeptide synthesis, basic organic synthesis, nanorod and nanoshell synthesis, TEM characterization.
-- **Computational:** Deep learning model design (CNN, GNN, Transformer, DiT), high-throughput FDTD simulation, automated FDTD simulation-data extraction platform development.
-- **Languages:** Native Chinese, fluent English (IELTS 7.0).
+- **Computational Nanophotonics:** Ansys Lumerical FDTD · Maxwell stress tensor · Multipolar analysis · Photothermal modeling · Brownian/Langevin dynamics
+- **Machine Learning & Optimization:** Python · PyTorch · Graph neural networks · Bayesian optimization · Scientific data analysis
+- **Experimental:** Colloidal Au nanorod/nanoshell synthesis · Polypeptide synthesis · TEM · in situ FTIR
+- **Languages:** Mandarin Chinese (native) · English (fluent, IELTS 7.0)
 9:["$","$L17",null,{"dataByLocale":{"en":{"type":"text","config":{"type":"text","title":"CV","source":"cv.md"},"content":"$18"}},"defaultLocale":"en"}]
 e:null
 12:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
